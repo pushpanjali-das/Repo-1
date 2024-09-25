@@ -1,5 +1,5 @@
-After craeting a new branch, you will add the files
+After creaing a new branch, you will add the files
 Next you need to create a pull request. To create a PR, you need to click on compare & pull request option, which can be seen when you are on the branch. 
 Once that is done, PR has to be merged to the main branch.
 Now can see your newly created file in the main branch, so you can delete your currently active branch, it will not delete your file because your file has been merged to the main branch.
-We can add some rules while merging the PRs like who has to review our pr and what actions are resctricted like deletions etc.
+We can add some rules while merging the PRs like who has to review our pr and what actions are resctricted examples deletions etc.
