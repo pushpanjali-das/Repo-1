@@ -1,0 +1,6 @@
+To create a repository follow the below steps:
+1.You need a git hub account create it.
+2.On the screen you can find a + symbol which says " create new " click on it and select " New Repository ".
+3.Provide a proper name and description to your repository.
+4.To add a file, click on you repository, you will find a create new file option click on it and add the file with required statements.
+5.You need to a name to this new file as well then click on the commit changes option. Basically these changes will be pushed to the main branch. 
