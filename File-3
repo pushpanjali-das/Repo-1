@@ -1,0 +1,4 @@
+After craeting a new branch, you will add the failes
+Next you need to create a pull request using 
+Once that is done it has to be merged to the main branch
+Now can see your newly created file in the main branch, so you can delete your currently active branch, it will not delete your file because your file has been merged to the main branch.
